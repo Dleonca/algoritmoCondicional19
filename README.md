@@ -1,0 +1,2 @@
+# algoritmoCondicional19
+Una empresa de bienes raices ofrece casas de interés social, bajo las siguientes condiciones: si los ingresos del comprador son menores el SMLV, la cuota inicial será del 15% del costo de la casa y el resto se distribuirá en pagos mensuales a pagar en 10 años. Si los ingresos son igual o mayores al SMLV la cuota inicial será del 30% del costo de la casa y el resto se distribuye en pagos mensuales por 7 años. La empresa quiere obtener cuanto debe pagar un comprador por  concepto de cuota incial y por concepto de pagos parcial.
